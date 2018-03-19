@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">        Game2Lend</string>
+    <string name="singin">LogIn</string>
+    <string name="rep_passwordhh">Rep-Password</string>
+    <string name="sign_in">LogIn</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="title_activity_control_panel">ControlPanelActivity</string>
+    <string name="login_anonymously">Login Anonymously</string>
+    <string name="message_no_storage_permission_snackbar">message_no_storage_permission_snackbar</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+
+
+    <string name="MyList">My List</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Search">Search</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

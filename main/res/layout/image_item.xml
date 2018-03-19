@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageViewItem"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@android:drawable/ic_menu_report_image" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageViewItem"
+            android:layout_alignEnd="@+id/imageViewItem"
+            android:layout_alignRight="@+id/imageViewItem"
+            android:padding="3dp"
+            app:layout_constraintBottom_toBottomOf="@+id/imageViewItem"
+            app:layout_constraintEnd_toEndOf="@+id/imageViewItem" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
